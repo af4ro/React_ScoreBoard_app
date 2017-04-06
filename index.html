@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Scoreboard</title>
+    <link rel="stylesheet" href="./app.css" />
+  </head>
+
+  <body>
+    <div id="container">Loading...</div>
+    <script src="./vendor/react.js"></script>
+    <script src="./vendor/react-dom.js"></script>
+    <script src="./vendor/babel-browser.min.js"></script>
+    <script type="text/babel" src="./app.jsx"></script>
+  </body>
+</html>
